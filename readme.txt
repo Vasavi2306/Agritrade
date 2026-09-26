@@ -1,3 +1,1 @@
-welcome to vignan university
-computer science department
-desmukhi hyderabad
+this is our project
