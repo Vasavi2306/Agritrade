@@ -1,9 +1,9 @@
 {
   "name": "back_end",
   "version": "1.0.0",
-  "description": "",
+  "description": "agritrade",
   "license": "ISC",
-  "author": "",
+  "author": "vasavi",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
